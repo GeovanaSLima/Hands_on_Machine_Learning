@@ -9,4 +9,4 @@
 ---
 
 ## Chapter 1: The Machine Learning Landscape
-    Code Example 1-1
+:arrow_right: [Code Example 1-1](https://github.com/GeovanaSLima/Hands_on_Machine_Learning/blob/main/Code_Example_1_1.ipynb)
